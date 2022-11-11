@@ -1,2 +1,2 @@
-# 691_Independent_study_Java_JDBC_Twitter_CLI_App
-Independent Study of JDBC implementation and its application to incorporate into Java Application: Twitter Command Line Interface.
+# 691_Independent_study_Java_JDBC_PostgreSQL
+Independent study and implementation of Java Database Connectivity (JDBC) between PostgreSQL and Java Application.
